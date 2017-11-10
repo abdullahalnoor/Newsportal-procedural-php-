@@ -1,0 +1,117 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 6, 2017, 10:34:29 PM
+    Author     : User
+*/
+.row{
+    margin-top: 20px;
+}
+.mrg * img {
+   margin-bottom: 15px;
+}
+.mrg * a{
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+.box{
+    border-bottom: 3px solid #269abc;
+}
+ .brd a{
+     font-size: 1.5em;
+    height: 0px;
+    display:inline-block;
+    line-height: 50px;   
+    border-bottom:30px solid #269abc;
+    border-right:  30px solid  transparent;
+    padding: 10px;
+    text-decoration: none;
+    font-weight: 900;
+    color: white; 
+}
+.navbar{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    border-radius: 0;
+    background:   #265a88;
+}
+.logo{
+    margin-bottom: 1em;
+}
+
+.nb{
+    background:   #265a88;
+    margin-bottom: 3em;
+}
+.navbar-default .navbar-brand{
+	color: white;
+	background-color: transparent;
+        font-weight: 700;
+}
+.navbar-default .navbar-brand:hover {
+	color: white;
+	background-color: transparent;
+}
+.navbar .nav li a{
+    color: white;
+}
+.navbar .nav li a:hover{
+    color:   #101010;
+    background: #E7E7E7;
+}
+.navbar-form{
+    border: 0;
+}
+.cl{
+    margin-top: 2em;
+}
+.cl * a{
+    color: white;
+    text-decoration: none;
+}
+.cl .fa{
+    font-size: 1.2em;
+}
+.ar{
+    font-size: 1em;
+    padding-bottom: 1em;
+}
+.detailsic * .fa{
+    font-size: 2.5em;
+    padding: 5px;
+}
+
+.headic * .fa{
+    font-size: 2em;
+    padding: 5px ;
+    
+}
+@media screen and (max-width: 980px) {
+    .headic * .fa{
+    font-size: 1.5em;
+    padding: 2px 5px;;
+    
+}
+}
+.tab1{
+      
+    border:10px solid transparent;  
+}
+.tab1 * a {
+    color: white;
+}
+.tab2{
+    margin-bottom: 1em;
+}
+.tab2 li a:hover{
+    background-color: #269abc;
+}
+.img_r{
+	height:76px;
+	width:76px;
+	
+}
